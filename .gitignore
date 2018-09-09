@@ -1,0 +1,44 @@
+# MacOS specific
+.DS_Store
+
+# env test and dev files
+.env.test
+.env.development
+
+# Build files
+public/dist/
+
+# Dependency directories
+node_modules/
+
+
+# Compiled Java class files
+*.class
+
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+# Logs
+logs
+*.log
+
+
+# Python - Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
