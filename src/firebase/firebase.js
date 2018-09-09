@@ -12,7 +12,7 @@ import * as firebase from 'firebase'
 
 
   var config = {
-    apiKey: "AIzaSyBelRYfu99A6q0rB624DllQgKLurB7fsrY",
+    apiKey: "AIzaSyBelRYfu99AfsrY",
     authDomain: "finance8-199ac.firebaseapp.com",
     databaseURL: "https://finance8-199ac.firebaseio.com",
     projectId: "finance8-199ac",
